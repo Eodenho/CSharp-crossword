@@ -1,0 +1,8 @@
+3
+cat
+dog
+pet
+3 3
+cdo
+apg
+tet
