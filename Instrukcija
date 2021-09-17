@@ -1,0 +1,5 @@
+Tekstiniame duomenų faile yra aprašomas kryžiažodis. Pirmoje eilutėje įrašomas žodžių skaičius, kitose 
+eilutėse išrašomi patys žodžiai. Eilutėje po jų įrašomi stulpelių ir eilučių skaičiai ir galiausiai išdėstomos visos 
+raidės pagal jų eilutės ir stulpelio numerius. Kryžiažodis tada yra nuskaitomas ir jo raidės įdedamos į puslapį. 
+Norint, kad kompiuteris jį išspręstų ir parodytų atsakymą, reikia paspausti mygtuką „Išspręsti“. Tada atsiranda 
+lentelė su joje pateiktais atsakymais ir sumomis atsakymams patikrinti.
